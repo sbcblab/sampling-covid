@@ -1,0 +1,30 @@
+1 {'solver': 'sgd', 'learning_rate_init': 0.01, 'hidden_layer_sizes': 10, 'early_stopping': False, 'batch_size': 128, 'alpha': 0.0001, 'activation': 'logistic'}
+2 {'solver': 'adam', 'learning_rate_init': 0.01, 'hidden_layer_sizes': (10, 10), 'early_stopping': True, 'batch_size': 16, 'alpha': 0.0001, 'activation': 'logistic'}
+3 {'solver': 'adam', 'learning_rate_init': 0.001, 'hidden_layer_sizes': (10, 10), 'early_stopping': False, 'batch_size': 64, 'alpha': 0.001, 'activation': 'logistic'}
+4 {'solver': 'adam', 'learning_rate_init': 0.0001, 'hidden_layer_sizes': (10, 20, 5), 'early_stopping': False, 'batch_size': 16, 'alpha': 0.01, 'activation': 'relu'}
+5 {'solver': 'sgd', 'learning_rate_init': 0.001, 'hidden_layer_sizes': (10, 10), 'early_stopping': False, 'batch_size': 16, 'alpha': 0.001, 'activation': 'relu'}
+6 {'solver': 'adam', 'learning_rate_init': 0.01, 'hidden_layer_sizes': 10, 'early_stopping': True, 'batch_size': 64, 'alpha': 0.01, 'activation': 'tanh'}
+7 {'solver': 'adam', 'learning_rate_init': 0.0001, 'hidden_layer_sizes': (30, 10), 'early_stopping': False, 'batch_size': 128, 'alpha': 0.001, 'activation': 'tanh'}
+8 {'solver': 'sgd', 'learning_rate_init': 0.001, 'hidden_layer_sizes': 10, 'early_stopping': False, 'batch_size': 64, 'alpha': 0.01, 'activation': 'tanh'}
+9 {'solver': 'adam', 'learning_rate_init': 0.01, 'hidden_layer_sizes': (30, 10), 'early_stopping': True, 'batch_size': 16, 'alpha': 0.001, 'activation': 'tanh'}
+10 {'solver': 'adam', 'learning_rate_init': 0.01, 'hidden_layer_sizes': 100, 'early_stopping': True, 'batch_size': 16, 'alpha': 0.0001, 'activation': 'relu'}
+11 {'solver': 'sgd', 'learning_rate_init': 0.0001, 'hidden_layer_sizes': (10, 20, 5), 'early_stopping': False, 'batch_size': 16, 'alpha': 0.01, 'activation': 'tanh'}
+12 {'solver': 'sgd', 'learning_rate_init': 0.001, 'hidden_layer_sizes': 10, 'early_stopping': False, 'batch_size': 64, 'alpha': 0.001, 'activation': 'relu'}
+13 {'solver': 'sgd', 'learning_rate_init': 0.001, 'hidden_layer_sizes': 100, 'early_stopping': False, 'batch_size': 64, 'alpha': 0.001, 'activation': 'relu'}
+14 {'solver': 'adam', 'learning_rate_init': 0.01, 'hidden_layer_sizes': 10, 'early_stopping': True, 'batch_size': 16, 'alpha': 0.01, 'activation': 'tanh'}
+15 {'solver': 'sgd', 'learning_rate_init': 0.01, 'hidden_layer_sizes': (30, 10), 'early_stopping': True, 'batch_size': 128, 'alpha': 0.01, 'activation': 'relu'}
+16 {'solver': 'sgd', 'learning_rate_init': 0.0001, 'hidden_layer_sizes': 100, 'early_stopping': False, 'batch_size': 64, 'alpha': 0.001, 'activation': 'tanh'}
+17 {'solver': 'sgd', 'learning_rate_init': 0.001, 'hidden_layer_sizes': (10, 10), 'early_stopping': False, 'batch_size': 128, 'alpha': 0.01, 'activation': 'relu'}
+18 {'solver': 'adam', 'learning_rate_init': 0.01, 'hidden_layer_sizes': (10, 10), 'early_stopping': True, 'batch_size': 16, 'alpha': 0.01, 'activation': 'relu'}
+19 {'solver': 'adam', 'learning_rate_init': 0.001, 'hidden_layer_sizes': 100, 'early_stopping': True, 'batch_size': 16, 'alpha': 0.01, 'activation': 'tanh'}
+20 {'solver': 'adam', 'learning_rate_init': 0.0001, 'hidden_layer_sizes': (5, 10, 5), 'early_stopping': False, 'batch_size': 128, 'alpha': 0.0001, 'activation': 'tanh'}
+21 {'solver': 'adam', 'learning_rate_init': 0.001, 'hidden_layer_sizes': (10, 10), 'early_stopping': True, 'batch_size': 64, 'alpha': 0.0001, 'activation': 'tanh'}
+22 {'solver': 'sgd', 'learning_rate_init': 0.001, 'hidden_layer_sizes': (10, 20, 5), 'early_stopping': True, 'batch_size': 16, 'alpha': 0.01, 'activation': 'relu'}
+23 {'solver': 'adam', 'learning_rate_init': 0.001, 'hidden_layer_sizes': (10, 20, 5), 'early_stopping': True, 'batch_size': 128, 'alpha': 0.001, 'activation': 'relu'}
+24 {'solver': 'adam', 'learning_rate_init': 0.0001, 'hidden_layer_sizes': (10, 20, 5), 'early_stopping': False, 'batch_size': 16, 'alpha': 0.01, 'activation': 'relu'}
+25 {'solver': 'sgd', 'learning_rate_init': 0.001, 'hidden_layer_sizes': 100, 'early_stopping': False, 'batch_size': 64, 'alpha': 0.0001, 'activation': 'relu'}
+26 {'solver': 'sgd', 'learning_rate_init': 0.001, 'hidden_layer_sizes': (10, 20, 5), 'early_stopping': False, 'batch_size': 128, 'alpha': 0.01, 'activation': 'tanh'}
+27 {'solver': 'sgd', 'learning_rate_init': 0.01, 'hidden_layer_sizes': (10, 20, 5), 'early_stopping': True, 'batch_size': 128, 'alpha': 0.0001, 'activation': 'relu'}
+28 {'solver': 'adam', 'learning_rate_init': 0.01, 'hidden_layer_sizes': (10, 20, 5), 'early_stopping': True, 'batch_size': 16, 'alpha': 0.0001, 'activation': 'logistic'}
+29 {'solver': 'adam', 'learning_rate_init': 0.0001, 'hidden_layer_sizes': (10, 10, 2), 'early_stopping': False, 'batch_size': 64, 'alpha': 0.01, 'activation': 'tanh'}
+30 {'solver': 'adam', 'learning_rate_init': 0.0001, 'hidden_layer_sizes': (10, 10), 'early_stopping': False, 'batch_size': 128, 'alpha': 0.01, 'activation': 'relu'}
