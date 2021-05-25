@@ -14,6 +14,15 @@ Complete datasets used in the present study were obtained from an open repositor
 
 The classes are listed in the "y" column in the .csv files. Values of 0 indicate negative RT-PCR results and values of 1 indicate positive RT-PCR results. For more information regarding the datasets please refer to the main publication.
 
+## Methods
+
+The following algorithms, methods, and tools were used in our experiments. For complete details about each one please refer to the main publication.
+
+- Classifiers: Logistic Regression, SVM, MLP, Naive Bayes, Random Forest, Decision Tree, KNN, XGBC
+- Sampling algorithms: ROS, RUS, ADASYN, SMOTE, SMOTE-Tomek
+- Metrics: Sensitivity, Specificity, LR+, LR-, DOR, F1-score
+- Data characterization: Kolmogorov-Smirnov test, Bhattacharyya Distance, violin plot
+
 ## Libraries
 
 This implementation of relevance aggregation uses the following [Python 3.7](https://www.python.org/) libraries:
