@@ -37,8 +37,8 @@ import xgboost as xgb
 
 matplotlib.use('Agg')
 # Read in the data with `read_csv()`
-sales_data = pd.read_csv("DATA/FLEURY-FM-ORIGINAL.csv")
-sales_teste = pd.read_csv("DATA/FLEURY-FM-ORIGINAL.csv") # teste
+sales_data = pd.read_csv("DATA/FLEURY-FM.csv")
+sales_teste = pd.read_csv("DATA/FLEURY-FM.csv") # teste
 
 
 
