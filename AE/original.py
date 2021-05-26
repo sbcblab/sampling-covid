@@ -41,8 +41,8 @@ import sys
 import os
 matplotlib.use('Agg')
 # Read in the data with `read_csv()`
-sales_data = pd.read_csv("DATA/AE-FM-ORIGINAL.csv")
-sales_teste = pd.read_csv("DATA/AE-FM-ORIGINAL.csv") # teste
+sales_data = pd.read_csv("DATA/AE-FM.csv")
+sales_teste = pd.read_csv("DATA/AE-FM.csv") # teste
 
 
 #com tudo
