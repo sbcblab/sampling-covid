@@ -38,8 +38,8 @@ import xgboost as xgb
 
 matplotlib.use('Agg')
 # Read in the data with `read_csv()`
-sales_data = pd.read_csv("DATA/HSL-ORIGINAL.csv")
-sales_teste = pd.read_csv("DATA/HSL-ORIGINAL.csv") # teste
+sales_data = pd.read_csv("DATA/HSL-FM.csv")
+sales_teste = pd.read_csv("DATA/HSL-FM.csv") # teste
 
 
 #com tudo
