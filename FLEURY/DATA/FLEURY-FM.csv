@@ -1,4 +1,4 @@
-ID,y,sexo,Hemoglobin,Meancorpuscularvolume,Leukocytes,Neutrophils,Eosinophils,Basophils,Lymphocytes,Monocytes,Platelets,RedbloodCells,Hematocrit,Meancorpuscularhemoglobin,Meancorpuscularhemoglobinconcentration,Redbloodcelldistributionwidth,Meanplateletvolume,Neutrophils#,Eosinophils#,Basophils#,Lymphocytes#,Monocytes#
+ID,y,sex,Hemoglobin,Meancorpuscularvolume,Leukocytes,Neutrophils,Eosinophils,Basophils,Lymphocytes,Monocytes,Platelets,RedbloodCells,Hematocrit,Meancorpuscularhemoglobin,Meancorpuscularhemoglobinconcentration,Redbloodcelldistributionwidth,Meanplateletvolume,Neutrophils#,Eosinophils#,Basophils#,Lymphocytes#,Monocytes#
 1,0,M,18.9,94.6,15080,10270,180,80,3410,1150,193,5.88,55.6,32.1,34,15.9,11.5,68.1,1.2,0.5,22.6,7.6
 2,0,M,18,86.2,7500,3790,110,30,3020,550,240,6.17,53.2,29.2,33.8,12.3,11.3,50.5,1.5,0.4,40.3,7.3
 3,1,M,18.4,85.5,5370,1540,50,20,3080,680,141,6.14,52.5,30,35,12.2,11.5,28.6,0.9,0.4,57.4,12.7
