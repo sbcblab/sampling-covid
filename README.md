@@ -8,9 +8,9 @@ The Coronavirus pandemic caused by the novel SARS-CoV-2 has significantly impact
 
 Complete datasets used in the present study were obtained from an open repository of COVID-19-related cases in Brazil. The database is part of the _COVID-19 Data Sharing/BR_ initiative, and it is comprised of information about approximately 177,000 clinical cases. Patient data were collected from February 26th to June 30th, 2020 from three distinct private health services providers in the São Paulo State, namely:
 
-- Fleury Group: [DATA](FLEURY/DATA/) - [https://www.fleury.com.br](https://www.fleury.com.br)
-- Albert Einstein Hospital: [DATA](AE/DATA/) - [https://www.einstein.br](https://www.einstein.br)
-- Sírio-Libanês Hospital: [DATA](HSL/DATA/) - [https://www.hospitalsiriolibanes.org.br](https://www.hospitalsiriolibanes.org.br)
+- Fleury Group: [DATA](FLEURY/DATA/)
+- Albert Einstein Hospital: [DATA](AE/DATA/) 
+- Sírio-Libanês Hospital: [DATA](HSL/DATA/) 
 
 The classes are listed in the "y" column in the .csv files. Values of 0 indicate negative RT-PCR results and values of 1 indicate positive RT-PCR results. For more information regarding the datasets please refer to the main publication.
 
