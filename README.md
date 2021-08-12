@@ -39,17 +39,18 @@ This implementation of relevance aggregation uses the following [Python 3.7](htt
 
 If you use our code, methods, or results in your research, please cite the main publication:
 
-- Marcio Dorn et al. _Comparison of Machine Learning Techniques to Handle Imbalanced COVID-19 CBC Datasets_, PeerJ Computer Science, Volume X, Month **Year**, Pages x-x, DOI: [xxxx]()
+Dorn M, Grisci BI, Narloch PH, Feltes BC, Avila E, Kahmann A, Alho CS. 2021. Comparison of machine learning techniques to handle imbalanced COVID-19 CBC datasets. PeerJ Computer Science 7:e670. DOI: https://doi.org/10.7717/peerj-cs.670
 
 Bibtex entry:
 ```
 @article{,
-  title={},
-  author={},
-  journal={},
-  year={},
-  doi = {},
-  publisher={}
+  title={Comparison of machine learning techniques to handle imbalanced COVID-19 CBC datasets},
+  author={Dorn M, Grisci BI, Narloch PH, Feltes BC, Avila E, Kahmann A, Alho CS},
+  journal={PeerJ Computer Science},
+  year={2021},
+  doi = {https://doi.org/10.7717/peerj-cs.670},
+  volume = {7},
+  pages = {e670}
 }
 ```
 
